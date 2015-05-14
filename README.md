@@ -1,4 +1,4 @@
-# ohfark
+# OhFark (Farkle)
 Farkle game for Android
 
 OhFark (Farkle) is a fun dice game that can be played by the entire family! Watch it, it's addicting!
