@@ -24,7 +24,6 @@ If you find any bugs or have any suggestions, please let me know.
 
 If you would like to contribute, we could always use help with the better language translation for German, Spanish, French, Italian, Portuguese, Czech and Russian.
 
-I am still looking for someone to Help with adding an AI.  Any takers, please contact me "soboapps at gmail.com"
-
 You can find it on Google Play:  https://play.google.com/store/apps/details?id=com.soboapps.ohfark
 
+I am still looking for someone to Help with adding an AI.  Any takers, please contact me "soboapps at gmail.com"
