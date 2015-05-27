@@ -1,8 +1,6 @@
 # OhFark (Farkle)
 Farkle game for Android - 2 Player Mode Only - Come help out with the Man vs Machine (1 player mode) update - https://github.com/soboapps/AI_OhFark
 
-<img src="http://www.soboapps.com/wp-content/uploads/2015/05/device-2015-05-23-070540.png">
-
 OhFark (Farkle) is a fun dice game that can be played by the entire family! Watch it, it's addicting!
 
 OhFark is a dice game that has also been called or is similar to 1000/5000/10000, Cosmic Wimpout, Greed, Hot Dice, Squelch, Zilch, Zonk, or Darsh to name but a few. 
@@ -29,3 +27,5 @@ If you would like to contribute, we could always use help with the better langua
 You can find it on Google Play:  https://play.google.com/store/apps/details?id=com.soboapps.ohfark
 
 I am still looking for someone to Help with adding an AI.  Any takers, please contact me "soboapps at gmail.com"
+
+<img src="http://www.soboapps.com/wp-content/uploads/2015/05/device-2015-05-23-070540.png">
