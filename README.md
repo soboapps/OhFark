@@ -26,6 +26,3 @@ If you would like to contribute, we could always use help with the better langua
 
 You can find it on Google Play:  https://play.google.com/store/apps/details?id=com.soboapps.ohfark
 
-I am still looking for someone to Help with adding an AI.  Any takers, please contact me "soboapps at gmail.com"
-
-<img src="http://www.soboapps.com/wp-content/uploads/2015/05/device-2015-05-23-070540.png">
