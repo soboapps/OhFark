@@ -1,5 +1,5 @@
 # OhFark (Farkle)
-Farkle game for Android - 2 Player Mode Only - Come help out with the Man vs Machine (1 player mode) update - https://github.com/soboapps/AI_OhFark
+Farkle game for Android - 2 Player Mode Only - Come help out with the Man vs Machine (1 player mode) update - https://github.com/soboapps/AIOhfark
 
 OhFark (Farkle) is a fun dice game that can be played by the entire family! Watch it, it's addicting!
 
